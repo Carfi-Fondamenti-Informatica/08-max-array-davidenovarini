@@ -1,7 +1,6 @@
 #include "lib.h"
 #include <iostream>
 using namespace std;
-
 float maxarray (int a) {
     float numeri [a];
     float b= numeri [0];
